@@ -46,5 +46,3 @@ private_key: Kx5JfiAGuEzkz9aZp1yMPycfNkvh7f29yV8eZ3jMBShDEfY5MjW8
 public_key: 03a34f805d45a18443d74eaf24835b4e8bb6e0b5b07bc1fbb5e43b2990d5ebc7bb
 Address: 1abcD4YjhdqF2v3KJgkE7ZJKVFnw7P2JkL
 ```
-
->>>>>>> c8ec34b (Initial commit)
